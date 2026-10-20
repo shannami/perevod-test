@@ -28,7 +28,7 @@ bool isBalanced( char* s)
     return res;
 }
 
-int main(void)
+int main()
 {
     char str[100];
 

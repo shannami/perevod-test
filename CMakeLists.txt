@@ -3,4 +3,4 @@ project(test)
 
 add_compile_options(-Wall -Wextra -pedantic)
 
-add_subdirectory(src/stack)
+add_subdirectory(src)
